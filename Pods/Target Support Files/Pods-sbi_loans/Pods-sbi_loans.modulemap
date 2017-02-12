@@ -1,0 +1,6 @@
+framework module Pods_sbi_loans {
+  umbrella header "Pods-sbi_loans-umbrella.h"
+
+  export *
+  module * { export * }
+}

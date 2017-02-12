@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.3.0)
+  - LNSideMenu (2.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.3)
+  - LNSideMenu (~> 2.2)
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  LNSideMenu: 0fd92b9557ee29f6f51feac285dea995e000e2f7
+
+PODFILE CHECKSUM: c914aa3712eca167748edc3c28c42e5d9016a0b8
+
+COCOAPODS: 1.2.0
